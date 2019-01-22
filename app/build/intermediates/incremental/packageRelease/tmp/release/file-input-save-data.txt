@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 22 14:24:17 CST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\hqw\\V-MultiStatusLayout\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

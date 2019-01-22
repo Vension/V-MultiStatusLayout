@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\hqw\\V-MultiStatusLayout\\mutilstatuslayout\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7b328a0a403754b6a12dad781a1e50d3\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\hqw\\V-MultiStatusLayout\\mutilstatuslayout\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7b328a0a403754b6a12dad781a1e50d3\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\hqw\\V-MultiStatusLayout\\mutilstatuslayout\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7b328a0a403754b6a12dad781a1e50d3\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\hqw\\V-MultiStatusLayout\\mutilstatuslayout\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7b328a0a403754b6a12dad781a1e50d3\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\hqw\\V-MultiStatusLayout\\mutilstatuslayout\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\98d1124514b8d325f9bc53b9b271c5aa\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\hqw\\V-MultiStatusLayout\\mutilstatuslayout\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7b328a0a403754b6a12dad781a1e50d3\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

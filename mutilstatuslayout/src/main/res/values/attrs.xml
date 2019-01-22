@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认布局控件id -->
+    <item name="pb_loading" type="id"/>
+    <item name="tv_page_loading" type="id"/>
+
+    <item name="iv_page_empty" type="id"/>
+    <item name="tv_page_empty" type="id"/>
+
+    <item name="iv_page_error" type="id"/>
+    <item name="tv_page_error" type="id"/>
+    <item name="tv_page_error_retry" type="id"/>
+
+
+    <style name="MultiStatusLayout">
+    </style>
+
+    <style name="MultiStatusLayout.Style">
+        <item name="msl_EmptyResId">@layout/layout_default_empty</item>
+        <item name="msl_LoadingResId">@layout/layout_default_loading</item>
+        <item name="msl_ErrorResId">@layout/layout_default_error</item>
+
+        <item name="msl_TextColor">#999999</item>
+        <item name="msl_TextSize">16sp</item>
+
+        <item name="msl_RetryTextColor">#009844</item>
+        <item name="msl_RetryTextSize">16sp</item>
+        <item name="msl_RetryBackground">@drawable/shape_default_retry</item>
+        <item name="msl_RetryText">@string/page_error_retry</item>
+
+        <item name="msl_LoadingColor">#009844</item>
+        <item name="msl_LoadingText">@string/page_loading</item>
+
+        <item name="msl_EmptyImage">@drawable/img_default_empty</item>
+        <item name="msl_EmptyText">@string/page_empty</item>
+
+        <item name="msl_ErrorImage">@drawable/img_default_error</item>
+        <item name="msl_ErrorText">@string/page_error_load</item>
+
+    </style>
+
+    <declare-styleable name="MultiStatusLayout">
+        <!-- 空布局资源id -->
+        <attr name="msl_EmptyResId" format="reference"/>
+        <!-- 加载中布局资源id -->
+        <attr name="msl_LoadingResId" format="reference"/>
+        <!-- 错误布局资源id -->
+        <attr name="msl_ErrorResId" format="reference"/>
+
+        <!-- 空布局图片 -->
+        <attr name="msl_EmptyImage" format="reference"/>
+        <!-- 空布局文本 -->
+        <attr name="msl_EmptyText" format="string"/>
+
+        <!-- 错误布局图片 -->
+        <attr name="msl_ErrorImage" format="reference"/>
+        <!-- 错误布局文本 -->
+        <attr name="msl_ErrorText" format="string"/>
+        <!-- 错误布局重试按钮文本 -->
+        <attr name="msl_RetryText" format="string"/>
+
+        <!-- loading布局加载文本 -->
+        <attr name="msl_LoadingText" format="string"/>
+        <!-- loading布局加载文本颜色 -->
+        <attr name="msl_LoadingColor" format="color"/>
+
+        <!-- 文本颜色 -->
+        <attr name="msl_TextColor" format="color"/>
+        <!-- 文本尺寸 -->
+        <attr name="msl_TextSize" format="dimension"/>
+
+        <!-- 重试文本颜色 -->
+        <attr name="msl_RetryTextColor" format="color"/>
+        <!-- 重试文本尺寸 -->
+        <attr name="msl_RetryTextSize" format="dimension"/>
+        <!-- 重试背景 -->
+        <attr name="msl_RetryBackground" format="reference"/>
+    </declare-styleable>
+
+</resources>

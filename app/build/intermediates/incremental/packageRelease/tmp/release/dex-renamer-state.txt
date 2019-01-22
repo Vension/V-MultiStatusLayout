@@ -1,0 +1,4 @@
+#Tue Jan 22 14:24:17 CST 2019
+base.0=E\:\\hqw\\V-MultiStatusLayout\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
