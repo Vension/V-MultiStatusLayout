@@ -17,7 +17,7 @@
 </p>
 
 # V-MultiStatusLayout
-### Support AndroidX
+### Support AndroidX  Kotlin
 A MultiStatusLayout for Android PageStatus -- use freely configurable（多状态Layout -- 可自由配置）
 
 
