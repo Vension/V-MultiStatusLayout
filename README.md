@@ -25,18 +25,14 @@ A MultiStatusLayout for Android PageStatus -- use freely configurable（多状�
 <p>
     <img src="images/GIF.gif" style="width: 50%;"/>
 </p>
-<p>
-    <img src="images/image_1.jpg" style="width: 30%;"/>
-    <img src="images/image_2.jpg" style="width: 30%;"/>
-</p>
-<p>
+<div>
+    <img src="images/image_1.jpg" style="width: 50%;"/>
+    <img src="images/image_2.jpg" style="width: 50%;"/>
     <img src="images/image_3.jpg" style="width: 30%;"/>
     <img src="images/image_4.jpg" style="width: 30%;"/>
-</p>
-<p>
     <img src="images/image_5.jpg" style="width: 30%;"/>
     <img src="images/image_6.jpg" style="width: 30%;"/>
-</p>
+</div>
 
 ## Download [ ![Download](https://api.bintray.com/packages/vension/maven/MultiStatusLayout/images/download.svg) ](https://bintray.com/vension/maven/MultiStatusLayout/_latestVersion)
 ``` gradle
