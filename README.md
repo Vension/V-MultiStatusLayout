@@ -17,8 +17,9 @@
 </p>
 
 # V-MultiStatusLayout
+#### Support AndroidX
 A MultiStatusLayout for Android PageStatus -- use freely configurable（多状态Layout -- 可自由配置）
-Support AndroidX
+
 
 ## Preview
 <p>
