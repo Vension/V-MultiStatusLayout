@@ -53,6 +53,26 @@ msl_WrapActivity.setTextColor(android.R.color.holo_red_dark)
                 .showError()
 ```
 
+## attrs
+
+| Attribute 属性         | Description 描述 |
+|:---				    |:---|
+| msl_EmptyResId              | 空布局资源id           |
+| msl_LoadingResId         | 加载中布局资源id       |
+| msl_ErrorResId          | 错误布局资源id           |
+| msl_EmptyImage          | 空布局图片   |
+| msl_EmptyText       | 空布局文本 |
+| msl_ErrorImage           | 错误布局图片 |
+| msl_ErrorText           | 错误布局文本 |
+| msl_RetryText           | 错误布局重试按钮文本 |
+| msl_LoadingText           | loading布局加载文本  |
+| msl_LoadingColor      | loading布局加载文本颜色  |
+| msl_TextColor          | 文本颜色  |
+| msl_TextSize          | 文本尺寸  |
+| msl_RetryTextColor          | 重试文本颜色  |
+| msl_RetryTextSize          | 重试文本尺寸  |
+| msl_RetryBackground          | 重试背景  |
+
 ## update
 * **V1.0.0**: <初始化版本>
 
