@@ -6,7 +6,7 @@
     <img src="https://travis-ci.org/Vension/V-MultiStatusLayout.svg?branch=master" alt="Build Status" />
   </a>
   <a href="https://developer.android.com/about/versions/android-4.0.html">
-    <img src="https://img.shields.io/badge/API-15%2B-blue.svg?style=flat-square" alt="Min Sdk Version" />
+    <img src="https://img.shields.io/badge/API-19%2B-blue.svg?style=flat-square" alt="Min Sdk Version" />
   </a>
   <a href="http://www.apache.org/licenses/LICENSE-2.0">
     <img src="http://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square" alt="License" />
@@ -17,7 +17,7 @@
 </p>
 
 # V-MultiStatusLayout
-#### Support AndroidX
+### Support AndroidX
 A MultiStatusLayout for Android PageStatus -- use freely configurable（多状态Layout -- 可自由配置）
 
 
