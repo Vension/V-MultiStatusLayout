@@ -36,7 +36,7 @@ A MultiStatusLayout for Android PageStatus -- use freely configurable（多状�
 
 ## Download [ ![Download](https://api.bintray.com/packages/vension/maven/MultiStatusLayout/images/download.svg) ](https://bintray.com/vension/maven/MultiStatusLayout/_latestVersion)
 ``` gradle
- implementation 'com.vension:MultiStatusLayout:_latestVersion'
+ implementation 'com.vension:mutilstatuslayout:_latestVersion'
 ```
 
 ## Usage
