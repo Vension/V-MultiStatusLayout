@@ -22,6 +22,12 @@ android {
         }
     }
 
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+        warning 'InvalidPackage'
+    }
+
 }
 
 dependencies {
@@ -37,4 +43,4 @@ repositories {
     mavenCentral()
 }
 
-apply from: 'novoda.gradle'
+apply from: 'bintray.gradle'

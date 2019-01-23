@@ -5,21 +5,21 @@ apply plugin: 'com.jfrog.bintray'
 
 // 定义两个链接，下面会用到。
 //项目主页
-def siteUrl = 'https://github.com/Vension/V-MultiStateLayout'
+def siteUrl = 'https://github.com/Vension/V-MultiStatusLayout'
 //项目的Git仓库的url
-def gitUrl = 'https://github.com/Vension/V-MultiStateLayout.git'
+def gitUrl = 'https://github.com/Vension/V-MultiStatusLayout.git'
 //发布到JCenter上的项目名字
-def libName = "MultiStateLayout"
+def libName = "MultiStatusLayout"
 //项目描述
-def libDesc = ":point_right:A MultiStateLayout for Android PageStatus --Using Builder builder mode chain calls（多状态Layout --使用Builder建造者模式链式调用）"
+def libDesc = "A MultiStatusLayout for Android PageStatus -- use freely configurable（多状态Layout -- 可自由配置）"
 
 //发布到组织名称名字，必须填写
 //（me.vension.xxx）这样写是不好的，项目名会拼上去
 //我手欠然后最后就是这样了，大家引以为戒
 //compile 'me.vension.xxx:xxx:1.0.0'
-group = "me.vension"// 唯一包名,比如implementation 'me.vension.xxx:1.0.0'中的me.vension就是这里配置的。
+group = "com.vension"// 唯一包名,比如implementation 'me.vension.xxx:1.0.0'中的me.vension就是这里配置的。
 // 版本号，下次更新是只需要更改版本号即可
-version = "1.0.1"//项目引用的版本号，比如implementation 'me.vension.xxx:1.0.0'中的1.0.0就是这里配置的。
+version = "1.0.0"//项目引用的版本号，比如implementation 'me.vension.xxx:1.0.0'中的1.0.0就是这里配置的。
 //上面配置后上传至JCenter后的编译路径是这样的： implementation 'me.vension.xxx:1.0.0'
 
 
@@ -111,7 +111,7 @@ bintray {
     configurations = ['archives']
     pkg {
         //注意：这里的repo值必须要和你创建Maven仓库的时候的名字一样
-        repo = "vensionCenter"  //Repository名字 需要自己在bintray网站上先添加
+        repo = "maven"  //Repository名字 需要自己在bintray网站上先添加
         //发布到JCenter上的项目名字
         name = libName
         userOrg = 'vension'//Bintray的组织id
