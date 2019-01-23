@@ -26,8 +26,8 @@ A MultiStatusLayout for Android PageStatus -- use freely configurable（多状�
     <img src="images/GIF.gif" style="width: 50%;"/>
 </p>
 <div>
-    <img src="images/image_1.jpg" style="width: 50%;"/>
-    <img src="images/image_2.jpg" style="width: 50%;"/>
+    <img src="images/image_1.jpg" style="width: 30%;"/>
+    <img src="images/image_2.jpg" style="width: 30%;"/>
     <img src="images/image_3.jpg" style="width: 30%;"/>
     <img src="images/image_4.jpg" style="width: 30%;"/>
     <img src="images/image_5.jpg" style="width: 30%;"/>
